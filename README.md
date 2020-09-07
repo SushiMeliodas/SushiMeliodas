@@ -1,8 +1,6 @@
 ### Hi is What I'm Working On! 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... on several Project
 - 🌱 I’m currently learning ... React.js, Laravel
 - 👯 I’m looking to collaborate on ... React.js, Laravel
