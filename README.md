@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on ... on several Project
 - 🌱 I’m currently learning ... React.js, Laravel
 - 👯 I’m looking to collaborate on ... React.js, Laravel
-- 🤔 I’m looking for help with ... Javascript, Laravel
+- 🤔 I’m looking for help with ... Javascript, Typescript, Laravel
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Email mE](mailto:bryanyf@hotmail.com)
 - 😄 Pronouns: ... He/Him/Bryan/Sushi
